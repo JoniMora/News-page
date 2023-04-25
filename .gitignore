@@ -1,0 +1,10 @@
+.DS_Store
+.angular/
+.browserslistrc
+.editorconfig
+.eslintrc.json
+.log
+/.vscode
+/.idea
+node_modules/
+android/
